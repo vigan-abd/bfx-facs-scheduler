@@ -2,7 +2,7 @@
 
 const _ = require('lodash')
 const schedule = require('node-schedule')
-const Base = require('bfx-facs-base')
+const Base = require('@bitfinex/bfx-facs-base')
 
 class Scheduler extends Base {
 
